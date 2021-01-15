@@ -1,1 +1,1 @@
-# scp_demo1
+# SCP Demo 1 - A Simple NodeJS Application
